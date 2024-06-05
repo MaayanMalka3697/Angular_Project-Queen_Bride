@@ -1,0 +1,7 @@
+#card
+{
+width: 230px;
+border: 2px, wheat, solid;
+margin: 15px;
+display:flex;
+}
